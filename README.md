@@ -1,4 +1,4 @@
-# qa_projects
+# QA Projects experience
 list of industry QA projects - confidential 
 
 --------------------------------------------------------------------------------------------------
