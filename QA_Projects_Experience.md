@@ -146,7 +146,7 @@ Edelweiss is developing new broking platform for its privileged customers with n
 
 **Testing approach: Manual, Automation, API Testing, Web services** <br> 
 **Role: Software Test Engineer** <br> 
-**Period: Aug 2016 – Oct 2016 **<br> 
+**Period: Aug 2016 – Oct 2016**<br> 
 **Tools / Platform: Selenium web Driver, redmine digital** <br> 
 **Work Location: Deputed at Client Center edelweiss broking limited Bangalore by Ta3s Solutions Pvt Ltd** <br> 
 
@@ -205,7 +205,7 @@ Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, po
 
 **Testing approach: Agile, Manual, Database & End to End Testing, Automation, UAT, Functional** <br> 
 **Role: Functional Test Analyst** <br> 
-**Period: May 2013 – Dec 2014 **<br> 
+**Period: May 2013 – Dec 2014**<br> 
 **Tools / Platform: HP ALM QC, Rapid SQL, JIRA, SQL Server 2008, One Tick, Sybase IQ, Selenium web Driver, Asp.Net, C#.Net** <br> 
 **Work Location: Cognizant Technology Solutions, Pune, ODC Center Credit Suisse.** <br> 
 
