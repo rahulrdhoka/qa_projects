@@ -82,7 +82,7 @@ Client Confidential <br>
 **Project # 4: AHM –PHIT (USA) – Aetna** <br> 
 **Client: Active Health & Aetna** <br> 
 **Project Description:**  <br> 
-MAHP MyActiveHealth serves as the gateway for members to all online Active Health programs and offers the below features & options: A full featured, claims-populated and member-reported electronic Personal Health Record. A comprehensive, proprietary Health Risk Assessment, that includes Healthy Action Items, a prioritized and personalized health ‘to do’ list. Online components to our NCQA-accredited Disease Management program. Online components to our Lifestyle Coaching (wellness) program. Active Challenge, powered by a partnership with Shape Up, is a year-round wellness offering for employees. The Rewards Center, which is designed to accommodate various client incentive program configurations.
+MAHP MyActiveHealth serves as the gateway for members to all online Active Health programs and offers the below features & options: A full featured, claims-populated and member-reported electronic Personal Health Record. A comprehensive, proprietary Health Risk Assessment, that includes Healthy Action Items, a prioritized and personalized health ‘to do’ list. Online components to our NCQA-accredited Disease Management program. Online components to our Lifestyle Coaching (wellness) program. Active Challenge, powered by a partnership with Shape Up, is a year-round wellness offering for employees. The Rewards Center, which is designed to accommodate various client incentive program configurations. <br>
 **Responsibilities:** <br> 
 *	Worked in Safe Agile methodology with Bi Weekly Rapid Release & In Sprint automation approach
 *	Attended daily Scrum calls to review User Stories in Sprint & Provide Sprint Status to Scrum Master.
@@ -123,7 +123,7 @@ MAHP MyActiveHealth serves as the gateway for members to all online Active Healt
 **Project # 3: Edelweiss web Application (ALEX)** <br> 
 **Client: Edelweiss broking Limited** <br>
 **Project Description:** <br> 
-Edelweiss is developing new broking platform for its privileged customers with new User interface & functionalities. Edelweiss platform is diversified investment destinations, which helps you trade in stock market and make investments across multiple asset classes like Equity, F&O, Currency Derivatives, Mutual Funds and Fixed Income products. You can register on the website to track markets, access research recommendations, invest and monitor your portfolio.
+Edelweiss is developing new broking platform for its privileged customers with new User interface & functionalities. Edelweiss platform is diversified investment destinations, which helps you trade in stock market and make investments across multiple asset classes like Equity, F&O, Currency Derivatives, Mutual Funds and Fixed Income products. You can register on the website to track markets, access research recommendations, invest and monitor your portfolio. <br>
 **Responsibilities:** <br> 
 *	Gather requirements from Business Analyst and analyze the requirements for testing prospective
 *	Designing scenario according to business requirements document & meta designs.
@@ -154,7 +154,7 @@ Edelweiss is developing new broking platform for its privileged customers with n
 **Client: CREDIT SUISSE**  <br>
 **Application 1:  Execution Performance & Reporting Technology (ExPRT) Post Trade tool** <br> 
 **Application Description:** <br> 
-TCA tool is Capable of delivering PDF & Excel Report to clients at regular intervals (daily, monthly, at trade date) to help them analyze their overall flows with CS, by assessing their algorithm selection, trading styles, trade timing and alpha progression. To help clients more easily establish what is driving their execution performance, Credit Suisse’s Execution Performance Reporting Technology (ExPRT) TCA tool includes Advanced Charting, Outliers and Events Analysis, Comparison of Actual versus Expected Costs, Peer Group Analysis, Enhanced Alpha Progression Analysis. ExPRT provides comprehensive analytics on executions.
+TCA tool is Capable of delivering PDF & Excel Report to clients at regular intervals (daily, monthly, at trade date) to help them analyze their overall flows with CS, by assessing their algorithm selection, trading styles, trade timing and alpha progression. To help clients more easily establish what is driving their execution performance, Credit Suisse’s Execution Performance Reporting Technology (ExPRT) TCA tool includes Advanced Charting, Outliers and Events Analysis, Comparison of Actual versus Expected Costs, Peer Group Analysis, Enhanced Alpha Progression Analysis. ExPRT provides comprehensive analytics on executions. <br>
 **Responsibilities:** <br> 
 * Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy.
 * Prepared test Cases using Quality center. Test Execution & Defect Management with JIRA
@@ -187,7 +187,7 @@ TCA tool is Capable of delivering PDF & Excel Report to clients at regular inter
 
 **Application 2:  EDGE (Pre-Trade & impact cost tool)** <br> 
 **Application Description:** <br> 
-Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, portfolio attribution and distribution. Edge utilizes Credit Suisse’s execution database and real-time data to empirically predict execution costs globally. Testing of Edge includes uploading different types of Portfolios with different modes such as Excel copy gird, File or manual input. Portfolios include identifiers such as Ticker, RIC, Sedol, Bloomberg etc. Testing include comparing numbers, charts, Calculations for different Portfolios updated. Pre-trade tools provide critical summary level information about trade-lists including estimated costs and duration of the trade, key exposures and highlights of stock that need extra attention.
+Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, portfolio attribution and distribution. Edge utilizes Credit Suisse’s execution database and real-time data to empirically predict execution costs globally. Testing of Edge includes uploading different types of Portfolios with different modes such as Excel copy gird, File or manual input. Portfolios include identifiers such as Ticker, RIC, Sedol, Bloomberg etc. Testing include comparing numbers, charts, Calculations for different Portfolios updated. Pre-trade tools provide critical summary level information about trade-lists including estimated costs and duration of the trade, key exposures and highlights of stock that need extra attention. <br>
 **Responsibilities:** <br> 
 * Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy
 * Designing scenario according to business requirements. Prepared Test Cases using Quality center
@@ -212,7 +212,7 @@ Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, po
 **Project # 1 WMSB Testing US (PCP Testing)** <br> 
 **Client: UBS Banking**  <br>
 **Project Description:** <br> 
-Testing of PCP includes the system test and system integration test of the entire landscape for payments and cash accounting applications. The payment and cross product (PCP) includes the landscape of different application catering to the payment processing and accounting needs. The various applications under testing includes market gateways, message broker, screening and compliance applications, client information database, cash management systems, payments engine, investigation system, liquidity management system, automated clearing house and various reports.
+Testing of PCP includes the system test and system integration test of the entire landscape for payments and cash accounting applications. The payment and cross product (PCP) includes the landscape of different application catering to the payment processing and accounting needs. The various applications under testing includes market gateways, message broker, screening and compliance applications, client information database, cash management systems, payments engine, investigation system, liquidity management system, automated clearing house and various reports. <br>
 **Responsibilities:** <br> 
 * Interacting with client, Development team to collect requirements.
 * Designing scenario according to business requirements. Prepared test cases using Quality center
