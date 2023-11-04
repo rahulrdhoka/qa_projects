@@ -2,7 +2,7 @@
         `` list of Industry QA Projects -confidential ``  
  --------------------------------------------------------------------------------------------------
 
-**Project # 9: Data API (DAP) Integration**  <br> 
+`rgb(9, 105, 218)` **Project # 9: Data API (DAP) Integration**  <br> 
  API Tester and Database Functional Testing
  Client Confidential
  Role: Software Test Engineer
