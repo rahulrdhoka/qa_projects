@@ -152,7 +152,7 @@ Work Location: Deputed at Client Center edelweiss broking limited Bangalore by T
 
 **Project # 2: Client Analytics Technology (Equities)** <br> 
 Client: CREDIT SUISSE <br>
-Application 1:  Execution Performance & Reporting Technology (ExPRT) Post Trade tool <br> 
+# Application 1:  Execution Performance & Reporting Technology (ExPRT) Post Trade tool <br> 
 Application Description:
 TCA tool is Capable of delivering PDF & Excel Report to clients at regular intervals (daily, monthly, at trade date) to help them analyze their overall flows with CS, by assessing their algorithm selection, trading styles, trade timing and alpha progression. To help clients more easily establish what is driving their execution performance, Credit Suisse’s Execution Performance Reporting Technology (ExPRT) TCA tool includes Advanced Charting, Outliers and Events Analysis, Comparison of Actual versus Expected Costs, Peer Group Analysis, Enhanced Alpha Progression Analysis. ExPRT provides comprehensive analytics on executions.
 Responsibilities:
@@ -183,7 +183,7 @@ Responsibilities:
 * Testing in between tables for Business Rules existing in their fields
 * Count level Verification testing whenever there is Data flow in between tables, Business rules implementation, Data Migration, Field Attribute Testing for newly added fields or tables for existing system.
 
-Application 2:  EDGE (Pre-Trade & impact cost tool) <br> 
+# Application 2:  EDGE (Pre-Trade & impact cost tool) <br> 
 Application Description: Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, portfolio attribution and distribution. Edge utilizes Credit Suisse’s execution database and real-time data to empirically predict execution costs globally. Testing of Edge includes uploading different types of Portfolios with different modes such as Excel copy gird, File or manual input. Portfolios include identifiers such as Ticker, RIC, Sedol, Bloomberg etc. Testing include comparing numbers, charts, Calculations for different Portfolios updated. Pre-trade tools provide critical summary level information about trade-lists including estimated costs and duration of the trade, key exposures and highlights of stock that need extra attention.
 Responsibilities:
 • Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy
