@@ -151,7 +151,7 @@ Tools / Platform: Selenium web Driver, redmine digital
 Work Location: Deputed at Client Center edelweiss broking limited Bangalore by Ta3s Solutions Pvt Ltd
 
 **Project # 2: Client Analytics Technology (Equities)** <br> 
-Client: CREDIT SUISSE
+Client: CREDIT SUISSE <br>
 Application 1:  Execution Performance & Reporting Technology (ExPRT) Post Trade tool <br> 
 Application Description:
 TCA tool is Capable of delivering PDF & Excel Report to clients at regular intervals (daily, monthly, at trade date) to help them analyze their overall flows with CS, by assessing their algorithm selection, trading styles, trade timing and alpha progression. To help clients more easily establish what is driving their execution performance, Credit Suisse’s Execution Performance Reporting Technology (ExPRT) TCA tool includes Advanced Charting, Outliers and Events Analysis, Comparison of Actual versus Expected Costs, Peer Group Analysis, Enhanced Alpha Progression Analysis. ExPRT provides comprehensive analytics on executions.
