@@ -1,5 +1,6 @@
-``**Quality Assurance & Testing Industry Project Experience **``  
- list of industry QA projects - confidential 
+`` Quality Assurance & Testing Industry Project Experience <br>
+         list of industry QA projects - confidential 
+``  
  --------------------------------------------------------------------------------------------------
 **Project # 9: Data API (DAP) Integration**  <br> 
  API Tester and Database Functional Testing
