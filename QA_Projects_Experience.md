@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
- <code style="color : magenta">text</code>
+ <code style="color:magenta">Quality Assurance & Testing Industry Project Experience</code>
 
 **$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
 
