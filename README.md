@@ -1,5 +1,5 @@
 `` Quality Assurance & Testing Industry Project Experience ``    <br>
-        `` list of industry QA projects -confidential ``  
+        `` list of Industry QA Projects -confidential ``  
  --------------------------------------------------------------------------------------------------
 
 **Project # 9: Data API (DAP) Integration**  <br> 
@@ -156,31 +156,32 @@ Application 1:  Execution Performance & Reporting Technology (ExPRT) Post Trade 
 Application Description:
 TCA tool is Capable of delivering PDF & Excel Report to clients at regular intervals (daily, monthly, at trade date) to help them analyze their overall flows with CS, by assessing their algorithm selection, trading styles, trade timing and alpha progression. To help clients more easily establish what is driving their execution performance, Credit Suisse’s Execution Performance Reporting Technology (ExPRT) TCA tool includes Advanced Charting, Outliers and Events Analysis, Comparison of Actual versus Expected Costs, Peer Group Analysis, Enhanced Alpha Progression Analysis. ExPRT provides comprehensive analytics on executions.
 Responsibilities:
-	Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy
-	Prepared test Cases using Quality center. Test Execution & Defect Management with JIRA
-	Providing QA Signoff & Implementation rollout. Conducting fresher’s KT, Training & interviews.
-	Interaction with business team to get UAT Signoff. Performed functional & Regression Testing
-	Perform Smoke & Sanity Testing. Worked in adherence with Agile Testing methodology
-	Prepared SDLC Documents for each Sprint, Publish Status Report to Dev. Team & Business
-	Prepare understanding document of this Project.
-	Defect prioritization and effective follow up with development team.
-	Driving the calls to discuss about the queries on the applications with development team.
-	Effective coordination between development team and testing team.
-	Worked as a module lead and coordinating with development to track the delivery of the module on time.
-	Knowledge transient discussions with Clients and development team and worked on Test Design taking the ownership.
-	Defects analysis- Providing analysis from UAT perspective for the Production defects identified in live environment. Verifying the accuracy and completeness of the project released and ensuring defect free quality product as per specification is delivered to the customer.
-	Raised enough Clarification and gained a complete knowledge of the applications involved in testing.
-	As working in client delivery center, interacting with client business analyst and able to understand the client requirements. Analyse the requirements by coordinating with Dev. team in an efficient way.
-	Coordinating with client for resolution of queries, reports and the routine follow-up for updates on outstanding defects.
-	Involved in Data model module which is a major challenge to analyze the front end UI field length validations.
-	Escalating issues related to test environment or testing delays (potential risk) if any caused by major defects encountered / caused by changes to business requirements which could impact the Production.
-	Testing of TCA tool includes system test for different flavors of Tableau Reports for different regions around the globe such as Americas, Europe, Middle East, Africa and Asia Pacific for different clients and asset class such as equities, Futures, Options, FX.
-	Report testing includes comparing numbers, charts, breakdowns values with standard production version.
-	Includes backend testing where the required fields can be queried on different Database source to fetch the correct data. Performed Backend (Database) Testing on database servers i.e. Sybase IQ, Sequel Servers that includes
-	Testing in between tables for all fields with similar attributes
-	Testing in between tables after Splitting or concatenation of fields in between them
-	Testing in between tables for Business Rules existing in their fields
-	Count level Verification testing whenever there is Data flow in between tables, Business rules implementation, Data Migration, Field Attribute Testing for newly added fields or tables for existing system.
+* Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy.
+* Prepared test Cases using Quality center. Test Execution & Defect Management with JIRA
+* Providing QA Signoff & Implementation rollout. Conducting fresher’s KT, Training & interviews.
+* Interaction with business team to get UAT Signoff. Performed functional & Regression Testing
+* Perform Smoke & Sanity Testing. Worked in adherence with Agile Testing methodology
+* Prepared SDLC Documents for each Sprint, Publish Status Report to Dev. Team & Business
+* Prepare understanding document of this Project.
+* Defect prioritization and effective follow up with development team.
+* Driving the calls to discuss about the queries on the applications with development team.
+* Effective coordination between development team and testing team.
+* Worked as a module lead and coordinating with development to track the delivery of the module on time.
+* Knowledge transient discussions with Clients and development team and worked on Test Design taking the ownership.
+* Defects analysis- Providing analysis from UAT perspective for the Production defects identified in live environment.
+* Verifying the accuracy and completeness of the project released and ensuring defect free quality product as per specification is delivered to the customer.
+* Raised enough Clarification and gained a complete knowledge of the applications involved in testing.
+* As working in client delivery center, interacting with client business analyst and able to understand the client requirements. Analyse the requirements by coordinating with Dev. team in an efficient way.
+* Coordinating with client for resolution of queries, reports and the routine follow-up for updates on outstanding defects.
+* Involved in Data model module which is a major challenge to analyze the front end UI field length validations.
+* Escalating issues related to test environment or testing delays (potential risk) if any caused by major defects encountered / caused by changes to business requirements which could impact the Production.
+* Testing of TCA tool includes system test for different flavors of Tableau Reports for different regions around the globe such as Americas, Europe, Middle East, Africa and Asia Pacific for different clients and asset class such as equities, Futures, Options, FX.
+* Report testing includes comparing numbers, charts, breakdowns values with standard production version.
+* Includes backend testing where the required fields can be queried on different Database source to fetch the correct data. Performed Backend (Database) Testing on database servers i.e. Sybase IQ, Sequel Servers that includes
+* Testing in between tables for all fields with similar attributes
+* Testing in between tables after Splitting or concatenation of fields in between them
+* Testing in between tables for Business Rules existing in their fields
+* Count level Verification testing whenever there is Data flow in between tables, Business rules implementation, Data Migration, Field Attribute Testing for newly added fields or tables for existing system.
 
 Application 2:  EDGE (Pre-Trade & impact cost tool) <br> 
 Application Description: Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, portfolio attribution and distribution. Edge utilizes Credit Suisse’s execution database and real-time data to empirically predict execution costs globally. Testing of Edge includes uploading different types of Portfolios with different modes such as Excel copy gird, File or manual input. Portfolios include identifiers such as Ticker, RIC, Sedol, Bloomberg etc. Testing include comparing numbers, charts, Calculations for different Portfolios updated. Pre-trade tools provide critical summary level information about trade-lists including estimated costs and duration of the trade, key exposures and highlights of stock that need extra attention.
