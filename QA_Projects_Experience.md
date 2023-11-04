@@ -1,12 +1,6 @@
 `` Quality Assurance & Testing Industry Project Experience ``    <br>
         `` list of Industry QA Projects -confidential non-disclosure``  
  --------------------------------------------------------------------------------------------------
--this is red color
-+this is green 
-! orange 
-#grey 
-@@ purple and bold @@
-<font color="green"> Some green text </font>
 **Project # 9: Data API (DAP) Integration**  <br> 
 **API Tester and Database Functional Testing** <br> 
 Client Confidential <br> 
