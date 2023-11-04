@@ -1,4 +1,4 @@
-`Quality Assurance & Testing Industry Project Experience`  
+`<H1>Quality Assurance & Testing Industry Project Experience`  
  
  list of industry QA projects - confidential 
 --------------------------------------------------------------------------------------------------
