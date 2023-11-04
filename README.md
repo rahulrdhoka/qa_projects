@@ -121,7 +121,7 @@ Tools / Platform: CA Client Central Rally, Selenium, SOAP UI, MS Sequel Server 2
 Work Location: Deputed at Client Delivery Center in eMids Technologies Pvt ltd Bangalore by Ta3s Solutions pvt ltd.
 
 **Project # 3: Edelweiss web Application (ALEX)** <br> 
-**Client: Edelweiss broking**
+**Client: Edelweiss broking** <br>
 Project Description:
 Edelweiss is developing new broking platform for its privileged customers with new User interface & functionalities. Edelweiss platform is diversified investment destinations, which helps you trade in stock market and make investments across multiple asset classes like Equity, F&O, Currency Derivatives, Mutual Funds and Fixed Income products. You can register on the website to track markets, access research recommendations, invest and monitor your portfolio.
 Responsibilities:
@@ -151,8 +151,7 @@ Tools / Platform: Selenium web Driver, redmine digital
 Work Location: Deputed at Client Center edelweiss broking limited Bangalore by Ta3s Solutions Pvt Ltd
 
 **Project # 2: Client Analytics Technology (Equities)** <br> 
-**Client: CREDIT SUISSE** <br>
-
+**Client: CREDIT SUISSE**  <br>
 **Application 1:  Execution Performance & Reporting Technology (ExPRT) Post Trade tool** <br> 
 Application Description:
 TCA tool is Capable of delivering PDF & Excel Report to clients at regular intervals (daily, monthly, at trade date) to help them analyze their overall flows with CS, by assessing their algorithm selection, trading styles, trade timing and alpha progression. To help clients more easily establish what is driving their execution performance, Credit Suisse’s Execution Performance Reporting Technology (ExPRT) TCA tool includes Advanced Charting, Outliers and Events Analysis, Comparison of Actual versus Expected Costs, Peer Group Analysis, Enhanced Alpha Progression Analysis. ExPRT provides comprehensive analytics on executions.
@@ -208,7 +207,7 @@ Tools / Platform: HP ALM QC, Rapid SQL, JIRA, SQL Server 2008, One Tick, Sybase 
 Work Location: Cognizant Technology Solutions, Pune, ODC Center Credit Suisse.
 
 **Project # 1 WMSB Testing US (PCP Testing)** <br> 
-**Client: UBS Banking** 
+**Client: UBS Banking**  <br>
 Project Description:
 Testing of PCP includes the system test and system integration test of the entire landscape for payments and cash accounting applications. The payment and cross product (PCP) includes the landscape of different application catering to the payment processing and accounting needs. The various applications under testing includes market gateways, message broker, screening and compliance applications, client information database, cash management systems, payments engine, investigation system, liquidity management system, automated clearing house and various reports.
 Responsibilities:
