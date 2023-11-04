@@ -1,7 +1,8 @@
 `` Quality Assurance & Testing Industry Project Experience `` <br>
 
-   code style="color : magenta">text</code>
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+ <code style="color : magenta">text</code>
 
 **$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
 
