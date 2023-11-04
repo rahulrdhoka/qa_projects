@@ -54,15 +54,15 @@ Client Confidential
 Role: Software Test Engineer
 Period: Nov 2019- March 2020 <br> 
 Responsibilities:
-*	Worked closely with developers and product owners to understand API requirements and design comprehensive test cases.
-*	Developed and executed test plans and test cases for RESTful APIs and SOAP APIs.
-*	Created and maintained automated test suites using Postman, SOAP UI, and Selenium.
-*	Performed functional, regression, and integration testing of APIs.
-*	Worked with cross-functional teams to identify and resolve defects.
-*	Conducted performance testing of APIs using Postman
-*	Contributed to the development and maintenance of CI/CD pipelines.
-*	Participated in daily stand-up meetings and sprint planning sessions.
-*	Mentored junior testers on best practices for API testing.
+* Worked closely with developers and product owners to understand API requirements and design comprehensive test cases.
+* Developed and executed test plans and test cases for RESTful APIs and SOAP APIs.
+* Created and maintained automated test suites using Postman, SOAP UI, and Selenium.
+* Performed functional, regression, and integration testing of APIs.
+* Worked with cross-functional teams to identify and resolve defects.
+* Conducted performance testing of APIs using Postman
+* Contributed to the development and maintenance of CI/CD pipelines.
+* Participated in daily stand-up meetings and sprint planning sessions.
+* Mentored junior testers on best practices for API testing.
 
 
 **Project # 5: ABR Crystal** <br> 
@@ -186,19 +186,20 @@ Responsibilities:
 **Application 2:  EDGE (Pre-Trade & impact cost tool)** <br> 
 Application Description: Pre-trade coverage on Edge includes impact costs and analysis, M&A screening, portfolio attribution and distribution. Edge utilizes Credit Suisse’s execution database and real-time data to empirically predict execution costs globally. Testing of Edge includes uploading different types of Portfolios with different modes such as Excel copy gird, File or manual input. Portfolios include identifiers such as Ticker, RIC, Sedol, Bloomberg etc. Testing include comparing numbers, charts, Calculations for different Portfolios updated. Pre-trade tools provide critical summary level information about trade-lists including estimated costs and duration of the trade, key exposures and highlights of stock that need extra attention.
 Responsibilities:
-• Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy
-• Designing scenario according to business requirements. Prepared Test Cases using Quality center
-• Test Execution & Defect Management with JIRA. Providing QA Signoff and Preparing Daily Status Report.
-• Interaction with business team to get UAT Signoff
-• Performed functional & Regression Testing Perform Smoke & Sanity Testing
-• Worked in adherence with Agile Testing methodology
-• Prepared SDLC Documents for each Sprint
-• Publish Status Report to Dev. Team & Business Prepare understanding documents
-• Estimate the automation testing requirements and automation plan with Time Schedules
-• Identify the test case which needs to be automated. Develop the scripts for identified test cases
-• Integrate the scripts with framework. Stabilize all the developed scripts
-• Execute the scripts and send the results to client
-• Keeping track of Hardware and software requirements for the Test Environment
+* Interacting with client, Development team to collect requirements. Preparing test Plan & Strategy
+* Designing scenario according to business requirements. Prepared Test Cases using Quality center
+* Test Execution & Defect Management with JIRA. Providing QA Signoff and Preparing Daily Status Report.
+* Interaction with business team to get UAT Signoff
+* Performed functional & Regression Testing Perform Smoke & Sanity Testing
+* Worked in adherence with Agile Testing methodology
+* Prepared SDLC Documents for each Sprint
+* Publish Status Report to Dev. Team & Business Prepare understanding documents
+* Estimate the automation testing requirements and automation plan with Time Schedules
+* Identify the test case which needs to be automated. Develop the scripts for identified test cases
+* Integrate the scripts with framework. Stabilize all the developed scripts
+* Execute the scripts and send the results to client
+* Keeping track of Hardware and software requirements for the Test Environment
+
 Testing approach: Agile, Manual, Database & End to End Testing, Automation, UAT, Functional
 Role: Functional Test Analyst
 Period: May 2013 – Dec 2014
@@ -210,13 +211,14 @@ Client: UBS Banking
 Project Description:
 Testing of PCP includes the system test and system integration test of the entire landscape for payments and cash accounting applications. The payment and cross product (PCP) includes the landscape of different application catering to the payment processing and accounting needs. The various applications under testing includes market gateways, message broker, screening and compliance applications, client information database, cash management systems, payments engine, investigation system, liquidity management system, automated clearing house and various reports.
 Responsibilities:
-•	Interacting with client, Development team to collect requirements.
-•	Designing scenario according to business requirements. Prepared test cases using Quality center
-•	Executing test cases, generating bug report using. Reporting details to development team for follow up
-•	Preparing Daily Status Report. Performing System Integration, Functionality and Regression testing
-•	Track Bug Report to its closure. Generated test scripts for Smoke & Regression testing using QTP
-•	Executed Automation test scripts & reported test results
-•	Involved in Script Review & Debugging
+* Interacting with client, Development team to collect requirements.
+* Designing scenario according to business requirements. Prepared test cases using Quality center
+* Executing test cases, generating bug report using. Reporting details to development team for follow up
+* Preparing Daily Status Report. Performing System Integration, Functionality and Regression testing
+* Track Bug Report to its closure. Generated test scripts for Smoke & Regression testing using QTP
+* Executed Automation test scripts & reported test results
+* Involved in Script Review & Debugging
+  
 Testing approach: Agile, Manual, Database & End to End Testing, Automation
 Role: Functional Test Analyst
 Period: May 2012 – April 2013
