@@ -4,7 +4,7 @@ list of industry QA projects - confidential
 --------------------------------------------------------------------------------------------------
 
 **Project # 9: Data API (DAP) Integration**
- <\br> API Tester and Database Functional Testing
+ API Tester and Database Functional Testing
  Client Confidential
  Role: Software Test Engineer
  Period: - AUG 2022– JULY 2023
@@ -28,13 +28,13 @@ Client Confidential
 Role: Software Test Engineer
 Period: - JUN 2021– July 2022
 Responsibilities:
-	Designed and executed Rest Assured tests to ensure the quality and accuracy of REST APIs, resulting in a 25% improvement in API performance.
-	Analysed API data, identifying data quality issues and providing recommendations for improvement.
-	Troubleshot API issues using Rest Assured, working closely with development teams to resolve issues in a timely manner.
-	Worked with cross-functional teams to ensure API data met business requirements and specifications.
-	Executed and maintained REST Assured testing frameworks, ensuring that tests were executed efficiently and effectively.
-	Automated the REST Assured tests using Selenium, which resulted in 40% faster test execution.
-	Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
+* Designed and executed Rest Assured tests to ensure the quality and accuracy of REST APIs, resulting in a 25% improvement in API performance.
+* Analysed API data, identifying data quality issues and providing recommendations for improvement.
+* Troubleshot API issues using Rest Assured, working closely with development teams to resolve issues in a timely manner.
+* Worked with cross-functional teams to ensure API data met business requirements and specifications.
+* Executed and maintained REST Assured testing frameworks, ensuring that tests were executed efficiently and effectively.
+* Automated the REST Assured tests using Selenium, which resulted in 40% faster test execution.
+* Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
 
 **Project # 7: META PX WEB**
 API Tester
@@ -42,12 +42,12 @@ Client Confidential
 Role: Software Test Engineer
 Period: - OCT 2020 – JAN 2021
 Responsibilities:
-	Conducted functional, regression, and performance testing of RESTful and SOAP APIs using Postman, Swagger, and RestAssured.
-	Worked closely with developers to identify and troubleshoot API issues and ensure that APIs met functional and non-functional requirements.
-	Developed and executed test cases and test scenarios for APIs, and documented test results and defects.
-	Implemented test automation scripts using Java and Python, and integrated automated tests into the build process using CI/CD tools like Jenkins.
-	Collaborated with business analysts, project managers, and other stakeholders to ensure that API testing aligned with project timelines and goals.
-	Provided feedback on API design and documentation, and suggested improvements to enhance API usability and functionality.
+* Conducted functional, regression, and performance testing of RESTful and SOAP APIs using Postman, Swagger, and RestAssured
+* Worked closely with developers to identify and troubleshoot API issues and ensure that APIs met functional and non-functional requirements.
+* Developed and executed test cases and test scenarios for APIs, and documented test results and defects.
+* Implemented test automation scripts using Java and Python, and integrated automated tests into the build process using CI/CD tools like Jenkins.
+* Collaborated with business analysts, project managers, and other stakeholders to ensure that API testing aligned with project timelines and goals.
+* Provided feedback on API design and documentation, and suggested improvements to enhance API usability and functionality.
 
 **Project # 6: BRI API UP NX**
 Freelance API Tester
@@ -73,14 +73,14 @@ Client Confidential
 Role: Software Test Engineer
 Period: Dec 2017 – OCT 2019
 Responsibilities:
-	Performed exploratory and scripted functional testing on mobile and desktop applications using manual testing.
-	Excelled in finding, documenting and reporting errors, feedbacks and other issues within mobile and desktop applications
-	Demonstrated methodical, detail oriented and thorough approach to all assignments while adhering to compressed timelines.
-	Participated in requirement walkthrough meetings and clarified requirement ambiguity with Business Analysts.
-	Worked with developers and Business testers which included triaging/prioritizing the defects.
-	Documented summary reports for each of the major test sequences detailing defect incidence, defect resolution and results of system retests/regression tests.
-	Coordinated onsite offshore communication.
-	Performed smoke testing, browser compatibility testing and usability testing.
+* Performed exploratory and scripted functional testing on mobile and desktop applications using manual testing.
+* Excelled in finding, documenting and reporting errors, feedbacks and other issues within mobile and desktop applications
+* Demonstrated methodical, detail oriented and thorough approach to all assignments while adhering to compressed timelines.
+* Participated in requirement walkthrough meetings and clarified requirement ambiguity with Business Analysts.
+* Worked with developers and Business testers which included triaging/prioritizing the defects.
+* Documented summary reports for each of the major test sequences detailing defect incidence, defect resolution and results of system retests/regression tests.
+* Coordinated onsite offshore communication.
+* Performed smoke testing, browser compatibility testing and usability testing.
 
 **Project # 4: AHM –PHIT (USA) – Aetna**
 Client: Active Health & Aetna
