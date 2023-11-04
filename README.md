@@ -1,5 +1,5 @@
 `` Quality Assurance & Testing Industry Project Experience ``    <br>
-        `` list of Industry QA Projects -confidential ``  
+        `` list of Industry QA Projects -confidential non-disclosure``  
  --------------------------------------------------------------------------------------------------
 
  **Project # 9: Data API (DAP) Integration**  <br> 
