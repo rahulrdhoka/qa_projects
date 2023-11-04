@@ -6,7 +6,7 @@
 ! orange 
 #grey 
 @@ purple and bold @@
-
+<font color="green"> Some green text </font>
 **Project # 9: Data API (DAP) Integration**  <br> 
 **API Tester and Database Functional Testing** <br> 
 Client Confidential <br> 
