@@ -122,7 +122,7 @@ Tools / Platform: CA Client Central Rally, Selenium, SOAP UI, MS Sequel Server 2
 Work Location: Deputed at Client Delivery Center in eMids Technologies Pvt ltd Bangalore by Ta3s Solutions pvt ltd. <br> 
 
 **Project # 3: Edelweiss web Application (ALEX)** <br> 
-**Client: Edelweiss broking** <br>
+**Client: Edelweiss broking Limited** <br>
 Project Description: <br> 
 Edelweiss is developing new broking platform for its privileged customers with new User interface & functionalities. Edelweiss platform is diversified investment destinations, which helps you trade in stock market and make investments across multiple asset classes like Equity, F&O, Currency Derivatives, Mutual Funds and Fixed Income products. You can register on the website to track markets, access research recommendations, invest and monitor your portfolio.
 Responsibilities: <br> 
