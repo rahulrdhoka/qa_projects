@@ -87,7 +87,8 @@ MAHP MyActiveHealth serves as the gateway for members to all online Active Healt
 Responsibilities:
 *	Worked in Safe Agile methodology with Bi Weekly Rapid Release & In Sprint automation approach
 *	Attended daily Scrum calls to review User Stories in Sprint & Provide Sprint Status to Scrum Master.
-*	Attended Elaboration calls for user stories with different stakeholders QA, BA, Dev, Onshore Counterparts & Product owners. Point of contact for onshore team.
+*	Attended Elaboration calls for user stories with different stakeholders QA, BA, Dev, Onshore Counterparts & Product owners.
+*	Point of contact for onshore team (Poc)
 *	Attended Daily Stand up meeting to discuss Progress, Risks & Mitigation associated with Sprint.
 *	Worked with BA, DEV to understand User Stories, Scope & Provide Test Estimates to Scrum Master
 *	Creating Task in Rally for User Stories with Planned Estimations & updating actual efforts on work basis.
@@ -171,13 +172,15 @@ Responsibilities:
 * Defects analysis- Providing analysis from UAT perspective for the Production defects identified in live environment.
 * Verifying the accuracy and completeness of the project released and ensuring defect free quality product as per specification is delivered to the customer.
 * Raised enough Clarification and gained a complete knowledge of the applications involved in testing.
-* As working in client delivery center, interacting with client business analyst and able to understand the client requirements. Analyse the requirements by coordinating with Dev. team in an efficient way.
+* As working in client delivery center, interacting with client business analyst and able to understand the client requirements.
+* Analyse the requirements by coordinating with Dev. team in an efficient way.
 * Coordinating with client for resolution of queries, reports and the routine follow-up for updates on outstanding defects.
 * Involved in Data model module which is a major challenge to analyze the front end UI field length validations.
 * Escalating issues related to test environment or testing delays (potential risk) if any caused by major defects encountered / caused by changes to business requirements which could impact the Production.
 * Testing of TCA tool includes system test for different flavors of Tableau Reports for different regions around the globe such as Americas, Europe, Middle East, Africa and Asia Pacific for different clients and asset class such as equities, Futures, Options, FX.
 * Report testing includes comparing numbers, charts, breakdowns values with standard production version.
-* Includes backend testing where the required fields can be queried on different Database source to fetch the correct data. Performed Backend (Database) Testing on database servers i.e. Sybase IQ, Sequel Servers that includes
+* Includes backend testing where the required fields can be queried on different Database source to fetch the correct data.
+* Performed Backend (Database) Testing on database servers i.e. Sybase IQ, Sequel Servers that includes
 * Testing in between tables for all fields with similar attributes
 * Testing in between tables after Splitting or concatenation of fields in between them
 * Testing in between tables for Business Rules existing in their fields
