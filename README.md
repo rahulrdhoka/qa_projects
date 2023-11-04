@@ -86,35 +86,36 @@ Client: Active Health & Aetna <br>
 Project Description: 
 MAHP MyActiveHealth serves as the gateway for members to all online Active Health programs and offers the below features & options: A full featured, claims-populated and member-reported electronic Personal Health Record. A comprehensive, proprietary Health Risk Assessment, that includes Healthy Action Items, a prioritized and personalized health ‘to do’ list. Online components to our NCQA-accredited Disease Management program. Online components to our Lifestyle Coaching (wellness) program. Active Challenge, powered by a partnership with Shape Up, is a year-round wellness offering for employees. The Rewards Center, which is designed to accommodate various client incentive program configurations.
 Responsibilities:
-	Worked in Safe Agile methodology with Bi Weekly Rapid Release & In Sprint automation approach
-	Attended daily Scrum calls to review User Stories in Sprint & Provide Sprint Status to Scrum Master.
-	Attended Elaboration calls for user stories with different stakeholders QA, BA, Dev, Onshore Counterparts & Product owners. Point of contact for onshore team.
-	Attended Daily Stand up meeting to discuss Progress, Risks & Mitigation associated with Sprint.
-	Worked with BA, DEV to understand User Stories, Scope & Provide Test Estimates to Scrum Master
-	Creating Task in Rally for User Stories with Planned Estimations & updating actual efforts on work basis.
-	Creating Test Folder in Rally for Sprint to organize & group your test into functional areas
-	Add Test Cases to test folder & Run test cases in test Folder
-	Raising Defects in Rally for User Stories
-	Retesting Fixed Defects in QA, CERT Environments
-	Help and guide entry level testers. Key member in sprint based on shippable module deliverables.
-	Report road blocks, design issues, etc. to Team Lead and tried to troubleshoot independently
-	Design Test Cases based on user Stories using Rally.
-	Publish Test Cases for Internal Peer Review then get signoff from BA.
-	Convert Scenarios to Gherkins Feature for BDD in rally
-	Write Step Definition Script for feature in selenium Hybrid framework
-	Execute Automation Scripts in Framework & Publish Results
-	Publish Daily Status Report to QA lead / Managers on Progress of sprint
-	Perform functional in QA Environment
-	Providing QA Sign off in QA Environment
-	Provide Demo to Product owner on QA Testing approach
-	Perform Regression Testing in CERT Environment i.e. automation & manual testing
-	Perform QA Sign off in CERT Environment
-	Perform Smoke & Sanity Testing
-	Perform End 2 End testing
-	Perform Browser Compatibility testing.
-	Part of Crowd testing for Mobile App
-	Perform Stored procedure testing
-Testing approach: Rapid Agile, Manual, Database & End to End Testing, In Sprint Automation, API Testing, Web services
+*	Worked in Safe Agile methodology with Bi Weekly Rapid Release & In Sprint automation approach
+*	Attended daily Scrum calls to review User Stories in Sprint & Provide Sprint Status to Scrum Master.
+*	Attended Elaboration calls for user stories with different stakeholders QA, BA, Dev, Onshore Counterparts & Product owners. Point of contact for onshore team.
+*	Attended Daily Stand up meeting to discuss Progress, Risks & Mitigation associated with Sprint.
+*	Worked with BA, DEV to understand User Stories, Scope & Provide Test Estimates to Scrum Master
+*	Creating Task in Rally for User Stories with Planned Estimations & updating actual efforts on work basis.
+*	Creating Test Folder in Rally for Sprint to organize & group your test into functional areas
+*	Add Test Cases to test folder & Run test cases in test Folder
+*	Raising Defects in Rally for User Stories
+*	Retesting Fixed Defects in QA, CERT Environments
+*	Help and guide entry level testers. Key member in sprint based on shippable module deliverables.
+*	Report road blocks, design issues, etc. to Team Lead and tried to troubleshoot independently
+*	Design Test Cases based on user Stories using Rally.
+*	Publish Test Cases for Internal Peer Review then get signoff from BA.
+*	Convert Scenarios to Gherkins Feature for BDD in rally
+*	Write Step Definition Script for feature in selenium Hybrid framework
+*	Execute Automation Scripts in Framework & Publish Results
+*	Publish Daily Status Report to QA lead / Managers on Progress of sprint
+*	Perform functional in QA Environment
+*	Providing QA Sign off in QA Environment
+*	Provide Demo to Product owner on QA Testing approach
+*	Perform Regression Testing in CERT Environment i.e. automation & manual testing
+*	Perform QA Sign off in CERT Environment
+*	Perform Smoke & Sanity Testing
+*	Perform End 2 End testing
+*	Perform Browser Compatibility testing.
+*	Part of Crowd testing for Mobile App
+*	Perform Stored procedure testing
+*	Testing approach: Rapid Agile, Manual, Database & End to End Testing, In Sprint Automation, API Testing, Web services
+
 Role: Software Test Engineer
 Period: Nov 2016 –Sep 2017
 Tools / Platform: CA Client Central Rally, Selenium, SOAP UI, MS Sequel Server 2008, Postman, Oracle Server
@@ -125,24 +126,25 @@ Client: Edelweiss broking
 Project Description:
 Edelweiss is developing new broking platform for its privileged customers with new User interface & functionalities. Edelweiss platform is diversified investment destinations, which helps you trade in stock market and make investments across multiple asset classes like Equity, F&O, Currency Derivatives, Mutual Funds and Fixed Income products. You can register on the website to track markets, access research recommendations, invest and monitor your portfolio.
 Responsibilities:
-	Gather requirements from Business Analyst and analyze the requirements for testing prospective
-	Designing scenario according to business requirements document & meta designs.
-	Preparing test cases for modules & Executing test cases, logging bug using redmine digital
-	Reporting details to development team for follow up
-	Generate report on daily basis for defect and execution status
-	Performing Functional & Regression Testing
-	Test GUI on different platforms & browsers
-	Test functionality on various mobile devices with a various platform (iOS, Android) & Browsers
-	Track Bug to its closure.
-	Verify bugs fixed in new releases
-	Identify the test cases which needs to be automated
-	Performing Web Browser compatibility with different browsers (Firefox, Safari, IE, Chrome) on different platform (Windows, MAC)
-	Develop the scripts for identified test cases
-	Integrate the scripts with framework
-	Stabilize all the developed scripts
-	Execute the scripts and send the results to client
-	Validate business and technical requirements to suggest enhancements to the feature set.
-	Validate Edelweiss Web Admin website functionality for correct reflection in front end web application.
+*	Gather requirements from Business Analyst and analyze the requirements for testing prospective
+*	Designing scenario according to business requirements document & meta designs.
+*	Preparing test cases for modules & Executing test cases, logging bug using redmine digital.
+*	Reporting details to development team for follow up
+*	Generate report on daily basis for defect and execution status
+*	Performing Functional & Regression Testing
+*	Test GUI on different platforms & browsers
+*	Test functionality on various mobile devices with a various platform (iOS, Android) & Browsers
+*	Track Bug to its closure.
+*	Verify bugs fixed in new releases
+*	Identify the test cases which needs to be automated
+*	Performing Web Browser compatibility with different browsers (Firefox, Safari, IE, Chrome) on different platform (Windows, MAC)
+*	Develop the scripts for identified test cases
+*	Integrate the scripts with framework
+*	Stabilize all the developed scripts
+*	Execute the scripts and send the results to client
+*	Validate business and technical requirements to suggest enhancements to the feature set.
+*	Validate Edelweiss Web Admin website functionality for correct reflection in front end web application.
+
 Testing approach: Manual, Automation, API Testing, Web services
 Role: Software Test Engineer
 Period: Aug 2016 – Oct 2016
