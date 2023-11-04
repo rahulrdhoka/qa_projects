@@ -3,7 +3,7 @@ list of industry QA projects - confidential
 
 --------------------------------------------------------------------------------------------------
 
-**Project # 9: Data API (DAP) Integration**
+**Project # 9: Data API (DAP) Integration**  <br>
  API Tester and Database Functional Testing
  Client Confidential
  Role: Software Test Engineer
