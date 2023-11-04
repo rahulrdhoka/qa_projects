@@ -2,7 +2,7 @@
         `` list of Industry QA Projects -confidential non-disclosure``  
 --------------------------------------------------------------------------------------------------
 
-$${\color{red}quality assurance}$$
+$${\color{Blue}list of Industry QA Projects -confidential non-disclosure}$$
 
 **Project # 9: Data API (DAP) Integration**  <br> 
 **API Tester and Database Functional Testing** <br> 
