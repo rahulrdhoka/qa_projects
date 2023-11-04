@@ -9,18 +9,18 @@ Client Confidential
 Role: Software Test Engineer
 Period: - AUG 2022– JULY 2023
 Responsibilities:
-	Conducted data quality assessments to identify and prioritize data quality issues, resulting in a 20% increase in data accuracy.
-	Validated and cleansed data using SQL and other Scripts reducing the number of data errors by 25%.
-	Integrated and transformed data from various sources, including databases and APIs, ensuring data consistency and accuracy across systems.
-	Created and executed test plans and test cases for data quality testing, resulting in a 30% reduction in defect rates.
-	Tracked and reported defects using JIRA, ensuring that issues were resolved in a timely manner.
-	Provided guidance and training to other team members on data quality best practices and standards.
-	Conducted functional and regression testing of web and mobile applications, ensuring the quality of software releases.
-	Worked with cross-functional teams to identify and resolve software issues.
-	Troubleshot API issues using Postman and SOAPUI, working closely with development teams to resolve issues in a timely manner.
-	Worked with cross-functional teams to ensure API data met business requirements and specifications.
-	Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
-	Executed and maintained API testing frameworks, ensuring that tests were executed effectively.
+* Conducted data quality assessments to identify and prioritize data quality issues, resulting in a 20% increase in data accuracy.
+* Validated and cleansed data using SQL and other Scripts reducing the number of data errors by 25%.
+* Integrated and transformed data from various sources, including databases and APIs, ensuring data consistency and accuracy across systems.
+* Created and executed test plans and test cases for data quality testing, resulting in a 30% reduction in defect rates.
+* Tracked and reported defects using JIRA, ensuring that issues were resolved in a timely manner.
+* Provided guidance and training to other team members on data quality best practices and standards.
+* Conducted functional and regression testing of web and mobile applications, ensuring the quality of software releases.
+* Worked with cross-functional teams to identify and resolve software issues.
+* Troubleshot API issues using Postman and SOAPUI, working closely with development teams to resolve issues in a timely manner.
+* Worked with cross-functional teams to ensure API data met business requirements and specifications.
+* Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
+* Executed and maintained API testing frameworks, ensuring that tests were executed effectively.
 
 **Project # 8: NGX Next Gen Services 2.0**
 API Tester Rest Assured
