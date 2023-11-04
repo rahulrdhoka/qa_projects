@@ -1,4 +1,4 @@
-# QA Projects experience
+# Quality Assurance & Testing Industry Project Experience 
 list of industry QA projects - confidential 
 
 --------------------------------------------------------------------------------------------------
