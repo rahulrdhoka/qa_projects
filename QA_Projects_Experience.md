@@ -1,8 +1,10 @@
 `` Quality Assurance & Testing Industry Project Experience ``    <br>
         `` list of Industry QA Projects -confidential non-disclosure``  
-        
-$${\color{blue}Blue}$$
- --------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$	
+
+
 **Project # 9: Data API (DAP) Integration**  <br> 
 **API Tester and Database Functional Testing** <br> 
 Client Confidential <br> 
