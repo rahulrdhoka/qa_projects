@@ -1,6 +1,4 @@
-`` Quality Assurance & Testing Industry Project Experience `` <br>
-
-<br> <code style="color:magenta">Quality Assurance & Testing Industry Project Experience</code>
+<br><code style="color: magenta">Quality Assurance & Testing Industry Project Experience</code>
 
 **$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
 
