@@ -3,11 +3,11 @@ list of industry QA projects - confidential
 
 --------------------------------------------------------------------------------------------------
 
-**Project # 9: Data API (DAP) Integration**  <br>
+**Project # 9: Data API (DAP) Integration**  <br> '''diff this is a red colored line '''
  API Tester and Database Functional Testing
  Client Confidential
  Role: Software Test Engineer
- Period: - AUG 2022– JULY 2023
+ Period: - AUG 2022– JULY 2023 <br>
  Responsibilities:
 * Conducted data quality assessments to identify and prioritize data quality issues, resulting in a 20% increase in data accuracy.
 * Validated and cleansed data using SQL and other Scripts reducing the number of data errors by 25%.
