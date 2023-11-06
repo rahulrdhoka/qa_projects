@@ -1,4 +1,4 @@
-**## Quality Assurance & Testing Industry Project Experience**
+**Quality Assurance & Testing Industry Project Experience**
 
 **$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
 
