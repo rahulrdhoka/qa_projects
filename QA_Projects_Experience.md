@@ -2,84 +2,6 @@
 
 **$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
 
-**Project # 9: Data API (DAP) Integration**  <br> 
-**API Tester and Database Functional Testing** <br> 
-Client Confidential <br> 
-**Role: Software Test Engineer <br> 
-  Period: - AUG 2022– JULY 2023**  <br>
- **Responsibilities:** <br> 
-* Conducted data quality assessments to identify and prioritize data quality issues, resulting in a 20% increase in data accuracy.
-* Validated and cleansed data using SQL and other Scripts reducing the number of data errors by 25%.
-* Integrated and transformed data from various sources, including databases and APIs, ensuring data consistency and accuracy across systems.
-* Created and executed test plans and test cases for data quality testing, resulting in a 30% reduction in defect rates.
-* Tracked and reported defects using JIRA, ensuring that issues were resolved in a timely manner.
-* Provided guidance and training to other team members on data quality best practices and standards.
-* Conducted functional and regression testing of web and mobile applications, ensuring the quality of software releases.
-* Worked with cross-functional teams to identify and resolve software issues.
-* Troubleshot API issues using Postman and SOAPUI, working closely with development teams to resolve issues in a timely manner.
-* Worked with cross-functional teams to ensure API data met business requirements and specifications.
-* Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
-* Executed and maintained API testing frameworks, ensuring that tests were executed effectively.
-
-**Project # 8: NGX Next Gen Services 2.0** <br> 
-**API Tester Rest Assured** <br> 
-Client Confidential <br> 
-**Role: Software Test Engineer** <br> 
-**Period: - JUN 2021– July 2022** <br> 
-**Responsibilities:** <br> 
-* Designed and executed Rest Assured tests to ensure the quality and accuracy of REST APIs, resulting in a 25% improvement in API performance.
-* Analysed API data, identifying data quality issues and providing recommendations for improvement.
-* Troubleshot API issues using Rest Assured, working closely with development teams to resolve issues in a timely manner.
-* Worked with cross-functional teams to ensure API data met business requirements and specifications.
-* Executed and maintained REST Assured testing frameworks, ensuring that tests were executed efficiently and effectively.
-* Automated the REST Assured tests using Selenium, which resulted in 40% faster test execution.
-* Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
-
-**Project # 7: META PX WEB** <br> 
-**API Tester** <br> 
-**Client Confidential** <br> 
-**Role: Software Test Engineer** <br> 
-**Period: - OCT 2020 – JAN 2**021 <br> 
-**Responsibilities:** <br> 
-* Conducted functional, regression, and performance testing of RESTful and SOAP APIs using Postman, Swagger, and RestAssured
-* Worked closely with developers to identify and troubleshoot API issues and ensure that APIs met functional and non-functional requirements.
-* Developed and executed test cases and test scenarios for APIs, and documented test results and defects.
-* Implemented test automation scripts using Java and Python, and integrated automated tests into the build process using CI/CD tools like Jenkins.
-* Collaborated with business analysts, project managers, and other stakeholders to ensure that API testing aligned with project timelines and goals.
-* Provided feedback on API design and documentation, and suggested improvements to enhance API usability and functionality.
-
-**Project # 6: BRI API UP NX** <br> 
-**API Testing** <br> 
-Client Confidential <br> 
-**Role: Software Test Engineer** <br> 
-**Period: Nov 2019- March 2020** <br> 
-**Responsibilities:** <br> 
-* Worked closely with developers and product owners to understand API requirements and design comprehensive test cases.
-* Developed and executed test plans and test cases for RESTful APIs and SOAP APIs.
-* Created and maintained automated test suites using Postman, SOAP UI, and Selenium.
-* Performed functional, regression, and integration testing of APIs.
-* Worked with cross-functional teams to identify and resolve defects.
-* Conducted performance testing of APIs using Postman
-* Contributed to the development and maintenance of CI/CD pipelines.
-* Participated in daily stand-up meetings and sprint planning sessions.
-* Mentored junior testers on best practices for API testing.
-
-
-**Project # 5: ABR Crystal** <br> 
-**Functional Testing** <br> 
-Client Confidential <br> 
-**Role: Software Test Engineer** <br> 
-**Period: Dec 2017 – OCT 2019** <br> 
-**Responsibilities:** <br> 
-* Performed exploratory and scripted functional testing on mobile and desktop applications using manual testing.
-* Excelled in finding, documenting and reporting errors, feedbacks and other issues within mobile and desktop applications
-* Demonstrated methodical, detail oriented and thorough approach to all assignments while adhering to compressed timelines.
-* Participated in requirement walkthrough meetings and clarified requirement ambiguity with Business Analysts.
-* Worked with developers and Business testers which included triaging/prioritizing the defects.
-* Documented summary reports for each of the major test sequences detailing defect incidence, defect resolution and results of system retests/regression tests.
-* Coordinated onsite offshore communication.
-* Performed smoke testing, browser compatibility testing and usability testing.
-
 **Project # 4: AHM –PHIT (USA) – Aetna** <br> 
 **Client: Active Health & Aetna** <br> 
 **Project Description:**  <br> 
@@ -228,3 +150,87 @@ Testing of PCP includes the system test and system integration test of the entir
 **Period: May 2012 – April 2013** <br> 
 **Tools / Platform: HP QC, HP QTP** <br> 
 **Work Location: Cognizant Technology Solutions,Pune, ODC Center UBS** <br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Other QA Projects Part of Freelancing work**  <br>
+
+**Project # 5: Data API (DAP) Integration**  <br> 
+**API Tester and Database Functional Testing** <br> 
+Client Confidential <br> 
+**Role: Software Test Engineer <br> 
+  Period: - AUG 2022– JULY 2023**  <br>
+ **Responsibilities:** <br> 
+* Conducted data quality assessments to identify and prioritize data quality issues, resulting in a 20% increase in data accuracy.
+* Validated and cleansed data using SQL and other Scripts reducing the number of data errors by 25%.
+* Integrated and transformed data from various sources, including databases and APIs, ensuring data consistency and accuracy across systems.
+* Created and executed test plans and test cases for data quality testing, resulting in a 30% reduction in defect rates.
+* Tracked and reported defects using JIRA, ensuring that issues were resolved in a timely manner.
+* Provided guidance and training to other team members on data quality best practices and standards.
+* Conducted functional and regression testing of web and mobile applications, ensuring the quality of software releases.
+* Worked with cross-functional teams to identify and resolve software issues.
+* Troubleshot API issues using Postman and SOAPUI, working closely with development teams to resolve issues in a timely manner.
+* Worked with cross-functional teams to ensure API data met business requirements and specifications.
+* Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
+* Executed and maintained API testing frameworks, ensuring that tests were executed effectively.
+
+**Project # 4: NGX Next Gen Services 2.0** <br> 
+**API Tester Rest Assured** <br> 
+Client Confidential <br> 
+**Role: Software Test Engineer** <br> 
+**Period: - JUN 2021– July 2022** <br> 
+**Responsibilities:** <br> 
+* Designed and executed Rest Assured tests to ensure the quality and accuracy of REST APIs, resulting in a 25% improvement in API performance.
+* Analysed API data, identifying data quality issues and providing recommendations for improvement.
+* Troubleshot API issues using Rest Assured, working closely with development teams to resolve issues in a timely manner.
+* Worked with cross-functional teams to ensure API data met business requirements and specifications.
+* Executed and maintained REST Assured testing frameworks, ensuring that tests were executed efficiently and effectively.
+* Automated the REST Assured tests using Selenium, which resulted in 40% faster test execution.
+* Participated in agile scrum meetings, providing updates on API testing progress and identifying any potential roadblocks.
+
+**Project # 3: META PX WEB** <br> 
+**API Tester** <br> 
+**Client Confidential** <br> 
+**Role: Software Test Engineer** <br> 
+**Period: - OCT 2020 – JAN 2**021 <br> 
+**Responsibilities:** <br> 
+* Conducted functional, regression, and performance testing of RESTful and SOAP APIs using Postman, Swagger, and RestAssured
+* Worked closely with developers to identify and troubleshoot API issues and ensure that APIs met functional and non-functional requirements.
+* Developed and executed test cases and test scenarios for APIs, and documented test results and defects.
+* Implemented test automation scripts using Java and Python, and integrated automated tests into the build process using CI/CD tools like Jenkins.
+* Collaborated with business analysts, project managers, and other stakeholders to ensure that API testing aligned with project timelines and goals.
+* Provided feedback on API design and documentation, and suggested improvements to enhance API usability and functionality.
+
+**Project # 2: BRI API UP NX** <br> 
+**API Testing** <br> 
+Client Confidential <br> 
+**Role: Software Test Engineer** <br> 
+**Period: Nov 2019- March 2020** <br> 
+**Responsibilities:** <br> 
+* Worked closely with developers and product owners to understand API requirements and design comprehensive test cases.
+* Developed and executed test plans and test cases for RESTful APIs and SOAP APIs.
+* Created and maintained automated test suites using Postman, SOAP UI, and Selenium.
+* Performed functional, regression, and integration testing of APIs.
+* Worked with cross-functional teams to identify and resolve defects.
+* Conducted performance testing of APIs using Postman
+* Contributed to the development and maintenance of CI/CD pipelines.
+* Participated in daily stand-up meetings and sprint planning sessions.
+* Mentored junior testers on best practices for API testing.
+
+
+**Project # 1: ABR Crystal** <br> 
+**Functional Testing** <br> 
+Client Confidential <br> 
+**Role: Software Test Engineer** <br> 
+**Period: Dec 2017 – OCT 2019** <br> 
+**Responsibilities:** <br> 
+* Performed exploratory and scripted functional testing on mobile and desktop applications using manual testing.
+* Excelled in finding, documenting and reporting errors, feedbacks and other issues within mobile and desktop applications
+* Demonstrated methodical, detail oriented and thorough approach to all assignments while adhering to compressed timelines.
+* Participated in requirement walkthrough meetings and clarified requirement ambiguity with Business Analysts.
+* Worked with developers and Business testers which included triaging/prioritizing the defects.
+* Documented summary reports for each of the major test sequences detailing defect incidence, defect resolution and results of system retests/regression tests.
+* Coordinated onsite offshore communication.
+* Performed smoke testing, browser compatibility testing and usability testing.
+
+
