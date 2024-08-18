@@ -2,41 +2,41 @@
 
 **$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
 
-**Project # 5: BES Clearing House (Australia) ** <br> 
+**Project # 5: BES Clearing House (Australia)** <br> 
 **Client: Colonial First State** <br> 
 **Project Description:**  <br> 
 The project involved migrating the Business Essential Super Clearing House platform from Commonwealth Bank of Australia (CBA) to Colonial First State (CFS). This migration was part of a larger initiative to separate CFS's superannuation and investments business from CBA. The project aimed to ensure seamless transition of services, data integrity, and compliance with SuperStream regulations. <br>
 **Responsibilities:** <br> 
-*Designed and executed test cases to verify data integrity during the CBA to CFS platform migration.
-*Performed reconciliation testing to ensure all employer and member data was accurately transferred.
-*Developed comprehensive test scenarios for SuperStream-compliant contribution and registration processes.
-*Validated the generation and processing of SuperStream XML messages for various superannuation transactions.
-*Conducted end-to-end integration tests between the clearing house platform, SuperChoice services, and internal CFS systems.
-*Verified data flow across web portals, ODS feeds, SuperStream XML services, and mainframe systems.
-*Performed extensive API testing for SuperChoice and internal CFS web services using tools like Postman and SoapUI.
-*Validated request/response payloads, error handling, and security aspects of API integrations.
-*Executed SQL queries to verify data integrity in MS SQL Server databases pre- and post-migration.
-*Tested stored procedures and database triggers crucial for clearing house operations.
-*Validated SSIS packages responsible for data extraction, transformation, and loading (ETL) processes.
-*Tested automated workflows for file generation, validation, and mainframe integration.
-*Performed comprehensive functional testing of the clearing house platform, including employer registration, contribution processing, and reporting features.
-*Executed test cases for various superannuation products and contribution types.
-*Conducted performance testing using JMeter to ensure the system could handle peak loads during contribution periods.
-*Identified and helped resolve performance bottlenecks in the clearing house processes.
-*Participated in security testing to ensure protection of sensitive financial and personal data.
-*Verified secure data transmission between different components of the clearing house ecosystem.
-*Developed and maintained an automated regression test suite using Selenium WebDriver.
-*Ensured that new changes did not adversely affect existing functionalities.
-*Prepared test data and scenarios for UAT sessions with business users and key stakeholders.
-*Provided support during UAT, documenting and triaging issues reported by users.
-*Utilized JIRA for logging, tracking, and managing defects throughout the testing lifecycle.
-*Collaborated with development teams to ensure timely resolution of identified issues.
-*Created and managed test data sets representing various employer and member scenarios.
-*Ensured data privacy compliance when using production-like data for testing.
-*Verified that the system adhered to Australian superannuation regulations and reporting requirements.
-*Tested features related to compliance reporting and auditing capabilities.
-*Performed cross-browser testing of the employer portal to ensure compatibility across different web browsers.
-*Conducted mobile responsive testing for key user journeys on various devices.
+* Designed and executed test cases to verify data integrity during the CBA to CFS platform migration.
+* Performed reconciliation testing to ensure all employer and member data was accurately transferred.
+* Developed comprehensive test scenarios for SuperStream-compliant contribution and registration processes.
+* Validated the generation and processing of SuperStream XML messages for various superannuation transactions.
+* Conducted end-to-end integration tests between the clearing house platform, SuperChoice services, and internal CFS systems.
+* Verified data flow across web portals, ODS feeds, SuperStream XML services, and mainframe systems.
+* Performed extensive API testing for SuperChoice and internal CFS web services using tools like Postman and SoapUI.
+* Validated request/response payloads, error handling, and security aspects of API integrations.
+* Executed SQL queries to verify data integrity in MS SQL Server databases pre- and post-migration.
+* Tested stored procedures and database triggers crucial for clearing house operations.
+* Validated SSIS packages responsible for data extraction, transformation, and loading (ETL) processes.
+* Tested automated workflows for file generation, validation, and mainframe integration.
+* Performed comprehensive functional testing of the clearing house platform, including employer registration, contribution processing, and reporting features.
+* Executed test cases for various superannuation products and contribution types.
+* Conducted performance testing using JMeter to ensure the system could handle peak loads during contribution periods.
+* Identified and helped resolve performance bottlenecks in the clearing house processes.
+* Participated in security testing to ensure protection of sensitive financial and personal data.
+* Verified secure data transmission between different components of the clearing house ecosystem.
+* Developed and maintained an automated regression test suite using Selenium WebDriver.
+* Ensured that new changes did not adversely affect existing functionalities.
+* Prepared test data and scenarios for UAT sessions with business users and key stakeholders.
+* Provided support during UAT, documenting and triaging issues reported by users.
+* Utilized JIRA for logging, tracking, and managing defects throughout the testing lifecycle.
+* Collaborated with development teams to ensure timely resolution of identified issues.
+* Created and managed test data sets representing various employer and member scenarios.
+* Ensured data privacy compliance when using production-like data for testing.
+* Verified that the system adhered to Australian superannuation regulations and reporting requirements.
+* Tested features related to compliance reporting and auditing capabilities.
+* Performed cross-browser testing of the employer portal to ensure compatibility across different web browsers.
+* Conducted mobile responsive testing for key user journeys on various devices.
 
 **Role: Software Test Engineer** <br> 
 **Period: DEC 2023 – DEC 2024**<br> 
