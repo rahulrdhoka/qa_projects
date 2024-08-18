@@ -1,6 +1,6 @@
 **Quality Assurance & Testing Industry Project Experience**
 
-**$${\color{blue}list\space of \space Industry \space QA \space Projects \space -confidential \space non-disclosure}$$**
+**$${\color{blue}list\space of \space Industry \space QA \space Projects \space -Confidential \space Non-Disclosure}$$**
 
 **Project # 5: BES Clearing House (Australia)** <br> 
 **Client: Colonial First State** <br> 
@@ -38,10 +38,11 @@ The project involved migrating the Business Essential Super Clearing House platf
 * Performed cross-browser testing of the employer portal to ensure compatibility across different web browsers.
 * Conducted mobile responsive testing for key user journeys on various devices.
 
-**Role: Software Test Engineer** <br> 
+**Testing approach: Manual, Automation, API Testing, Web services, ETL,SSIS, Database,J2EE,End to End,Regression ,UAT ,System, Agile** <br> 
+**Role: Sr.Software Test Engineer** <br> 
 **Period: DEC 2023 – DEC 2024**<br> 
-**Tools / Platform: JIRA, Confluence ,Selenium, SOAP UI, MS Sequel Server 2019, Postman, SAP ODS , SSIS , Mainframe (FMS), RUMBA,FTP, RPL, AWS, Azure, Git ** <br> 
-**Work Location: Currently Deputed at TATA Consultancy Services, Whitefield, ITPL, Bangalore ** <br> 
+**Tools / Platform: JIRA, Confluence ,Selenium, SOAP UI, MS Sequel Server 2019, Postman, SAP ODS , SSIS , Mainframe (FMS), RUMBA,FTP, RPL, AWS, Azure, Git**<br> 
+**Work Location: Currently Deputed at TATA Consultancy Services, Whitefield, ITPL, Bangalore** <br> 
 
 **Project # 4: AHM –PHIT (USA) – Aetna** <br> 
 **Client: Active Health & Aetna** <br> 
