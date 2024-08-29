@@ -108,6 +108,7 @@ Edelweiss is developing new broking platform for its privileged customers with n
 *	Execute the scripts and send the results to client
 *	Validate business and technical requirements to suggest enhancements to the feature set.
 *	Validate Edelweiss Web Admin website functionality for correct reflection in front end web application.
+*	Pefromance testing using Jmeter for diffrent Load Conditons and generated reports for analysis.
 
 **Testing approach: Manual, Automation, API Testing, Web services** <br> 
 **Role: Software Test Engineer** <br> 
